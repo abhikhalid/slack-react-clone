@@ -1,0 +1,11 @@
+Building the SLACK app
+
+1. REACT JS
+2. Google User Authentication (Firebase)
+3. React Context API 
+4. Material UI (Icons+ Make it lokk beautiful)
+5. CSS Variables
+6. Flexbox
+7. Deploy it with Firebase
+8. Real-time databse (Firebase)
+
