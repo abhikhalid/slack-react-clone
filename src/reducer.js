@@ -15,6 +15,8 @@ function reducer(state, action) {
     switch (action.type) {
         case actionTypes.SET_USER:
 
+            console.log('Hello World');
+
             return {
                 ...state,
                 user: action.user,
